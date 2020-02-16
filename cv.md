@@ -25,7 +25,7 @@ Bush, GitHub, Markdown, HTML-basic, CSS-basic, SQL-basic.
 **Code example**
 <details>
  
- <summary>  Latest part of code from HTML Academy
+ <summary>  The latest part of the code from HTML Academy
  </summary>
  
  <!DOCTYPE html>
@@ -77,11 +77,11 @@ Bush, GitHub, Markdown, HTML-basic, CSS-basic, SQL-basic.
 
 ## Experience
 
-I haven't had any kind of experience in coding yet. I'm going to get it from Rolling Scopes School in the near future.
+I haven't had any coding experience yet. I'm going to get it at the Rolling Scopes School in the near future.
 
 ## Education
 
-   - Majority in arcitecture
+   - Graduated from BNTU majoring in architecture
    - [Codeacademy](https://www.codecademy.com/) (Bush, GitHub - basic)
    - [HTML Academy](https://htmlacademy.ru/) (HTML, CSS - basic)
    - English courses
