@@ -21,7 +21,7 @@ Some kind of self-presentation. In case of lack of experience  Junior Developer 
 
 **Skills**
 
-Bush, GitHub, Markdown, HTML-basic, CSS-basic.
+Bush, GitHub, Markdown, HTML-basic, CSS-basic, SQL-basic.
 
 **Code example**
 <details>
@@ -83,8 +83,8 @@ I haven't had any kind of experience in coding yet. I'm going to get it from Rol
 ## Education
 
    - Majority in arcitecture
-   - `Codeacademy` (Bush, GitHub - basic)
-   - `HTML Academy` (HTML, CSS - basic)
+   - [Codeacademy](https://www.codecademy.com/) (Bush, GitHub - basic)
+   - [HTML Academy](https://htmlacademy.ru/) (HTML, CSS - basic)
    - English courses
 
 **English** 
