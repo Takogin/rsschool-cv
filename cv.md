@@ -28,7 +28,7 @@ Bush, GitHub, Markdown, HTML-basic, CSS-basic, SQL-basic.
  <summary>  The latest part of the code from HTML Academy
  </summary>
  
- <!DOCTYPE html>
+``` <!DOCTYPE html>
 <html lang="ru">
   <head>
     <meta charset="utf-8">
@@ -71,7 +71,7 @@ Bush, GitHub, Markdown, HTML-basic, CSS-basic, SQL-basic.
     </footer>
   </body>
 </html>
-
+```
 </details>
 
 
