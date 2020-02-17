@@ -1,10 +1,10 @@
 header {
+  text-align: center;
+  padding: 20px;
   font-family: "PT Sans", "Arial", sans-serif;
   font-size: 20px;
-  text-align: center;
-  color: white;
-  background-color: black;
-  padding: 20px;
+  color: #ffffff;
+  background-color: #000000;
 }
 
 body {
@@ -13,11 +13,7 @@ body {
 
 img {
   text-align: left;
-  background-color: darkgrey;
-}
-
-.pi {
-  text-align: left;
+  background-color: #a9a9a9;
 }
 
 h1 {
@@ -25,7 +21,7 @@ h1 {
 }
 
 h2 {
-  border-bottom: 2px solid lightgrey;
+  border-bottom: 2px solid #d3d3d3;
 }
 
 h3 {
@@ -42,8 +38,15 @@ p {
 
 footer {
   text-align: right;
-  color: lightgrey;
-  border-top: 1px darkgrey;
   padding: 20px;
-  background-color: black;
+  color: #d3d3d3;
+  background-color: #000000;
+}
+
+.personal-info {
+  text-align: left;
+}
+
+.education {
+  padding-bottom: 40px;
 }
